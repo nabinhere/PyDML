@@ -1,3 +1,7 @@
 PyDML.egg-info
 pyDML.egg-info
-
+.vscode
+.codex
+Modeling_Practice/
+__pycache__/
+*.pyc
